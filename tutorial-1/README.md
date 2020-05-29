@@ -19,3 +19,4 @@
 ### Notes:
  - There aren't any tests written so they will all pass every time
  - Open one of the files and hit ctr+s to save/run the tests and move on to the next challenge
+ - Your database may not get saved if you leave
